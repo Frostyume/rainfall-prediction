@@ -12,7 +12,7 @@
 | Temperature       | 当日平均温度（单位：°C）                  |
 | Mintemp           | 当日最低温度（单位：°C）                  |
 | Dewpoint          | 露点温度（单位：°C）                      |
-| Humidity          | 相对湿度百分比（修正原拼写错误）          |
+| Humidity          | 相对湿度百分比          |
 | Cloud             | 云覆盖率                                  |
 | Sunshine          | 日照时间（单位：小时）                    |
 | Winddirection     | 风向（单位：度）                          |
